@@ -1,1 +1,0 @@
-# SchoolManagementApp.MVC
